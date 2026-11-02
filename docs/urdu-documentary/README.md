@@ -4,13 +4,13 @@ A 5-minute cinematic documentary on the history of Pakistan, narrated in Urdu.
 Produced with AI-generated visuals, a synthesized orchestral score, and Urdu
 (Nastaliq) typography rendered with HarfBuzz + FreeType.
 
-[![Poster](poster.jpg)](https://github.com/arbabkhan007/Sora-Video/releases/download/v1.0-history-of-pakistan/A_History_of_Pakistan_Urdu.mp4)
+[![Poster](poster.jpg)](https://github.com/arbabkhan007/Sora-Video/raw/arena/ace609de-sora-video/docs/urdu-documentary/A_History_of_Pakistan_Urdu.mp4)
 
 ## Download
 
-**➡ [A_History_of_Pakistan_Urdu.mp4](https://github.com/arbabkhan007/Sora-Video/releases/download/v1.0-history-of-pakistan/A_History_of_Pakistan_Urdu.mp4)** (79 MB)
+**➡ [A_History_of_Pakistan_Urdu.mp4](https://github.com/arbabkhan007/Sora-Video/raw/arena/ace609de-sora-video/docs/urdu-documentary/A_History_of_Pakistan_Urdu.mp4)** (79 MB)
 
-Also available under [Releases](../../releases/tag/v1.0-history-of-pakistan).
+GitHub page (with a Download button): [docs/urdu-documentary/A_History_of_Pakistan_Urdu.mp4](https://github.com/arbabkhan007/Sora-Video/blob/arena/ace609de-sora-video/docs/urdu-documentary/A_History_of_Pakistan_Urdu.mp4)
 
 | | |
 |---|---|
